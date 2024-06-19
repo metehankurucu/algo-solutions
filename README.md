@@ -15,3 +15,4 @@ This repository contains my solutions to various algorithm challenges from platf
 | Merge Sorted Array   | [Solution](./leetcode/merge-sorted-array.js)     | [Problem](https://leetcode.com/problems/merge-sorted-array)                                                          | Easy   | LeetCode   |
 | Remove Element       | [Solution](./leetcode/remove-element.js)         | [Problem](https://leetcode.com/problems/remove-element)                                                              | Easy   | LeetCode   |
 | Rotate Array         | [Solution](./leetcode/rotate-array.js)           | [Problem](https://leetcode.com/problems/rotate-array/)                                                               | Medium | LeetCode   |
+| H-Index              | [Solution](./leetcode/h-index.js)                | [Problem](https://leetcode.com/problems/h-index/)                                                                    | Medium | LeetCode   |
