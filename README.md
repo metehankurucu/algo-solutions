@@ -20,3 +20,4 @@ This repository contains my solutions to various algorithm challenges from platf
 | Rotate Array         | [Solution](./leetcode/rotate-array.js)           | [Problem](https://leetcode.com/problems/rotate-array/)                                                               | Medium | LeetCode   |
 | H-Index              | [Solution](./leetcode/h-index.js)                | [Problem](https://leetcode.com/problems/h-index/)                                                                    | Medium | LeetCode   |
 | Gas Station          | [Solution](./leetcode/gas-station.js)            | [Problem](https://leetcode.com/problems/gas-station)                                                                 | Medium | LeetCode   |
+| Jump Game            | [Solution](./leetcode/jump-game.js)              | [Problem](https://leetcode.com/problems/jump-game)                                                                   | Medium | LeetCode   |
